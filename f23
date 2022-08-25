@@ -1,3 +1,9 @@
 Editing in f23
 I have pushed the code from local repo to remote repo
 now have to pull it back after this change
+
+Push and pull command working fine
+
+it is mainly bcs of the new token generated from the settings option
+
+
